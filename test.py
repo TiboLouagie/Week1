@@ -2,4 +2,4 @@ print("hello")
 
 print("nieuwe master")
 
-print("halloooooooo")
+print("hallo en bye")
